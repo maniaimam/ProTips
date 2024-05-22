@@ -8,7 +8,7 @@ const Home = () => (
       <span className='orange_gradient text-center'> Useful Tips</span>
     </h1>
     <p className='desc text-center'>
-      ProTips is a Tips and hacks platform to
+      ProTips is a free Tips and hacks platform to
       discover, create and share creative Tips on any subject!
     </p>
 
